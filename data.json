@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"maneesha",
+    "photo":"maneesha.png",
+    "email":"chinnakotlamaneesha566@gmail.com",
+    "mobileno":"7995644261",
+    "address":"svit college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2016-20","75%"]
+    },
+    {
+       "degree":"intermediate",
+      "institute":"Sathya Sai",
+      "data":["2013-15","86%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Z.P.H.S",
+      "data":["2014","93%"]
+    }
+  ],
+  "skills":[
+    {
+    "sname":"Languages",
+    "sdata":["C","C++","Java"]
+  },
+  {
+  "sname":"DataBase",
+  "sdata":["Oracle","Mysql","MysqLite","PDO"]
+},
+{
+"sname":"Web Technologies",
+"sdata":["HTML","XML","CSS","PHP","javaScript"]
+},
+{
+"sname":"Operating-system",
+"sdata":["Windows","Linux","Unix"]
+}
+
+  ]
+}
